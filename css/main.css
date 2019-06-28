@@ -1,0 +1,30 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.nev-box {
+    padding: 0px;
+}
+
+.nev-inner-box {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.main-box {
+    height: 100%;
+}
+
+.band-box {
+    width: 100%;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-color: #000000;
+    opacity: 0.5;
+    color: #ffffff;
+}
+.card-box {
+    width: 25rem; 
+    float: right;
+}
